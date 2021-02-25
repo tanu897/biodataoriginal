@@ -1,0 +1,43 @@
+.header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background: black;
+    color: white;
+}
+.image{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.name{
+    letter-spacing: 0.5em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.web{
+    letter-spacing: 0.2em;
+    margin-top: 30px;
+}
+.underline{
+    width: 430px;
+    height: 7px;
+    margin-top: 20px;
+    background: white;
+}
+.pd{
+    background: wheat;
+    padding: 10px;
+    text-align:center;
+    font-style: italic;
+    font-weight: bold;
+}
+.wrapper{
+    padding: 0px;
+    margin-top: 50px;
+}
+p{
+    font-weight: bold;
+    background: white;
+}
